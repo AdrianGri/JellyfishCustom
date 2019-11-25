@@ -1,0 +1,9 @@
+Package: com.adriandev.jellyfishcustom
+Name: JellyfishCustom
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: More settings for Jellyfish
+Maintainer: AdrianDev
+Author: AdrianDev
+Section: Tweaks
